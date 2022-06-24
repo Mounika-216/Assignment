@@ -563,9 +563,7 @@ ul.list  li label {
     .navbar-search{
         margin-left:0px !important;
     }
-    .add-to-cart{
-        flex-direction: column;
-    }
+   
     .saveButton{
         margin-left: 0px;
     }
