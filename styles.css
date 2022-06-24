@@ -535,10 +535,6 @@ input[type="search"]::-webkit-search-results-decoration {
     border-radius: 5px;
   }
   
-  .right-block .inner-block>div{
-        /* margin-bottom: 200px !important; */
-  }
-  
  .choose-quantity input {
     border: none;
     outline: none;
